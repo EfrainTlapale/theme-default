@@ -9,6 +9,8 @@
     "SUMMARY_TOGGLE": "Tabla de contenido",
     "SEARCH_TOGGLE": "Buscar",
     "SEARCH_PLACEHOLDER": "Escribe para buscar",
+    "SEARCH_RESULTS_TITLE": "<span class='search-results-count'></span> resultados encontrados \"<span class='search-query'></span>\"",
+    "SEARCH_NO_RESULTS_TITLE": "Sin resultados \"<span class='search-query'></span>\"",
     "FONTSETTINGS_TOGGLE": "Configuración de fuente",
     "SHARE_TOGGLE": "Compartir",
     "SHARE_ON": "Compartir en {{platform}}",
